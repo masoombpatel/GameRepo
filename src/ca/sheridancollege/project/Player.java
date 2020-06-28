@@ -9,7 +9,7 @@ package ca.sheridancollege.project;
  * A class that models each Player in the game. Players have an identifier, which should be unique.
  *
  * @author 
- * @author Masoom Patel 28 June 2020  
+// * @author Masoom Patel 28 June 2020  
  * @author 
  */
 public abstract class Player {
